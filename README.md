@@ -33,6 +33,7 @@ Machine learning model for predicting house prices.
 
 ### 🔹 Predictive Maintenance System
 AI-based industrial machinery maintenance prediction project.
+
 ---
 
 ## 🌐 Connect With Me
