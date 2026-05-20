@@ -33,15 +33,6 @@ Machine learning model for predicting house prices.
 
 ### 🔹 Predictive Maintenance System
 AI-based industrial machinery maintenance prediction project.
-
----
-
-## 📊 GitHub Stats
-
-![Aafiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌐 Connect With Me
