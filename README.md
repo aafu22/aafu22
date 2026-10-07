@@ -5,7 +5,6 @@
 
 ## 🚀 About Me
 
-- 🎓 4th Year CSE Student
 - 🌱 Currently learning AI/ML
 - 💻 Building real-world AI + IoT projects
 - 🐍 Python
